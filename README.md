@@ -101,11 +101,13 @@ const wards = kenyaAdmin.getWards(null, "Mvita");
 ## Contributing
 
 1. Fork this repository.
-2. Create new branch with feature name.
-3. Create your feature.
-4. Commit and set commit message with feature name.
-5. Push your code to your fork repository.
-6. Create pull request.
+2. Pull the latest changes from develop.
+3. Create new branch with feature name.
+4. Implement your feature.
+5. Run tests
+6. Commit and set commit message with feature name.
+7. Push your code to your fork repository.
+8. Create pull request and point to develop branch.
 
 ## Support
 
